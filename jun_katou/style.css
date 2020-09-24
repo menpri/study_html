@@ -38,8 +38,16 @@ h1 {
 }
 .info_text{
     color: red;
-    width: 50％;
+    width: 30％;
+    font-size: 1.5rem;
     float: left;
-    
+}
+.honbun{
+    color: black;
+    font-size: 1.0rem;
+}
+.youtube_link{
+    text-align: right;
     
 }
+    
