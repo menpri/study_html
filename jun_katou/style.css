@@ -1,0 +1,12 @@
+
+.text {
+    text-align: center;
+}
+a {
+    color: skyblue;
+    text-decoration: none;
+}
+.container {
+    color: red;
+    font-size: 50px;
+}  
