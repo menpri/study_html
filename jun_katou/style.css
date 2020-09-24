@@ -28,3 +28,18 @@ h1 {
     background-color: #191970;
     float: left;
 }
+.info{
+    width: 100%;
+    margin: 0 auto;
+}
+.info_img{
+    width: 50%;
+    float: left;
+}
+.info_text{
+    color: red;
+    width: 50％;
+    float: left;
+    
+    
+}
