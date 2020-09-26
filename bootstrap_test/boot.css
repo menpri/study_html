@@ -1,0 +1,6 @@
+.navcollor {
+  background-color: #0000ff;
+}
+.navbar .navbar-nav .active > .nav-link {
+  color: white;
+}
